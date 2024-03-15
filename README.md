@@ -14,7 +14,7 @@
 
 <h1><b>You can watch the Demo here</b> </h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NcTiwLGt8og" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/NcTiwLGt8og
 
 <p>I have done similar project before: https://github.com/james1821/LaravelBlogCRUD</p>
 
