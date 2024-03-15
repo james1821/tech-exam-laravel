@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .flex-class {
+        @apply flex items-center justify-center flex-col;
+    }
+    .btn-primary {
+        @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded;
+    }
+    .btn-warning {
+        @apply bg-yellow-500 hover:bg-yellow-700 text-black font-bold py-2 px-4 rounded;
+    }
+    .btn-success {
+        @apply bg-green-500 hover:bg-green-700 text-black font-bold py-2 px-4 rounded;
+    }
+    .btn-danger {
+        @apply bg-red-500 hover:bg-red-700 text-black font-bold py-2 px-4 rounded;
+    }
+
+    .body-style {
+        @apply flex justify-center items-center;
+    }
+    label {
+        @apply text-start font-bold;
+    }
+    input {
+        @apply border-solid border-2 border-black rounded-md;
+    }
+    textarea {
+        @apply border-solid border-2 border-black rounded-md h-40;
+    }
+}
