@@ -8,11 +8,12 @@
 </p>
 
 <h1>Created for Technical Exam at DICE205</h1>
-<h1><b>Frontend:</b> I did not use any JavaScript framework, just blade and tailwind css</h1>
-<h1><b>Backend</b> PHP on Laravel framework</h1>
-<h1><b>Database</b> MySql</h1>
+<h1><b>Frontend: </b> I did not use any JavaScript framework, just blade and tailwind css</h1>
+<h1><b>Backend: </b> PHP on Laravel framework</h1>
+<h1><b>Database: </b> MySql</h1>
 
 <h1><b>You can watch the Demo here</b> </h1>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NcTiwLGt8og" frameborder="0" allowfullscreen></iframe>
 
-<p>I have done similar projects before: https://github.com/james1821/LaravelBlogCRUD</p>
+<p>I have done similar project before: https://github.com/james1821/LaravelBlogCRUD</p>
