@@ -17,9 +17,3 @@
 https://www.youtube.com/embed/NcTiwLGt8og
 
 <p>I have done similar project before: https://github.com/james1821/LaravelBlogCRUD</p>
-
-style{
-b{
-color:red;
-}
-}
