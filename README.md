@@ -17,3 +17,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NcTiwLGt8og" frameborder="0" allowfullscreen></iframe>
 
 <p>I have done similar project before: https://github.com/james1821/LaravelBlogCRUD</p>
+
+style{
+b{
+color:red;
+}
+}
